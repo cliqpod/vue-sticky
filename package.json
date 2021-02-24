@@ -2,7 +2,7 @@
   "name": "vue-sticky",
   "version": "3.3.4",
   "description": "A directive to sticky element for vue.js.",
-  "main": "./src/vue-sticky.js",
+  "main": "./src/index.js",
   "scripts": {
     "build": "webpack -p",
     "dev": "webpack-dev-server --config ./webpack.example.config.js --inline --hot",
